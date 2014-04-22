@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		readme.txt = readme.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "html5-boilerplate-nojs", "html5-boilerplate-nojs\html5-boilerplate-nojs.csproj", "{77259E56-526A-4A60-8D38-D57718CD2A63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{EF63CA1A-12F0-4814-B441-5E1E1010A264}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF63CA1A-12F0-4814-B441-5E1E1010A264}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF63CA1A-12F0-4814-B441-5E1E1010A264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77259E56-526A-4A60-8D38-D57718CD2A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77259E56-526A-4A60-8D38-D57718CD2A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77259E56-526A-4A60-8D38-D57718CD2A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77259E56-526A-4A60-8D38-D57718CD2A63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
